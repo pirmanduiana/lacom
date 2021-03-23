@@ -1,1 +1,3 @@
-# common
+# laracom
+ 
+Laravel-Common Functions
