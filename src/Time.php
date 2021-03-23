@@ -1,6 +1,6 @@
 <?php
 
-namespace pirman\common;
+namespace pirman\lacom;
 
 class Time
 {

@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pirman\\Common\\": "src/"
+            "Pirman\\Lacom\\": "src/"
         }
     }
 }
