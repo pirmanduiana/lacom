@@ -1,6 +1,6 @@
 {
-    "name": "pirman/common",
-    "description": "Common usage functions",
+    "name": "pirman/lacom",
+    "description": "Laravel Common Usage Functions",
     "type": "library",
     "license": "MIT",
     "authors": [
